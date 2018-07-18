@@ -1,2 +1,3 @@
 # StudentProject
-Project for student info
+Project for student Info
+Stdent id,name,email
